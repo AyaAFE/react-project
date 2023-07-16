@@ -1,7 +1,7 @@
 const Firstcomponant = () =>{
     return(
         <div>
-            <h1> Hello React woho koookoooo </h1>
+            <h1> Hello React woho koookoooooo </h1>
         </div>
     )
 }

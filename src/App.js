@@ -61,7 +61,7 @@ function App() {
         </ul>
       </header>
 
-      <header className="show-when-mobile">
+      <header className="show-when-mobile" style={{backgroundColor:"blue"}}>
         <h1>Courses 4 Arab</h1>
         <label className="absolute" htmlFor="burger">
           <i className="fas fa-bars" />
@@ -132,7 +132,7 @@ function App() {
       <main>
         Respossive <br />
         New  <br />
-        smile  &amp; Happy please
+        smile  &amp; be Happy please
       </main>
       <footer>
         Designed and developed by Courses by me.com
